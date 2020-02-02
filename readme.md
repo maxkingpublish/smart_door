@@ -31,7 +31,7 @@ After the module ready(see as notice below),make the flask web server running,
 
 - Face recognize,entering localhost:5000/whois in browser
 
-![](https://github.com/maxkingpublish/smart_door/blob/master/people_i_know/Who_am_i.jpg)
+![](https://github.com/maxkingpublish/smart_door/blob/master/people_i_know/Who_am_i.png)
 
 
 ## Notice:
