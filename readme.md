@@ -21,20 +21,17 @@ The IOT Side would choice node MCU,not done yet.
 After the module ready(see as notice below),make the flask web server running,
 
 - Check the server is running,entering localhost:5000 in browser :
-![](https://drive.google.com/file/d/1twr7uZDTCepa3AoczP7sG5-lZqMBOkVq/view?usp=sharing)
 ```
-![Alt text](/people_i_know/hello_flask.png)
+![](smart_door/people_i_know/hello_flask.png)
 ```
 - Take pic by entering hello + name: localhost:5000/hello/"yourname" in browser
-![](https://drive.google.com/file/d/12CLBejRmG7bnPo59UC-L-FQBa5Jc0lxx/view?usp=sharing) 
 ```
-![Alt text](/people_i_know/tk_pic.png)
+![](smart_door/people_i_know/tk_pic.png)
 ```
 
 - Face recognize,entering localhost:5000/whois in browser
-![](https://drive.google.com/file/d/17gEKL1I3UH2ppfPBwVmQmdC8-te0wnpQ/view?usp=sharing)
 ```
-![Alt text](/people_i_know/Who_am_i.jpg)
+![](smart_door/people_i_know/Who_am_i.jpg)
 ```
 
 ## Notice:
