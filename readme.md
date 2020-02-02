@@ -22,7 +22,7 @@ After the module ready(see as notice below),make the flask web server running,
 
 - Check the server is running,entering localhost:5000 in browser :
 ```
-![](smart_door/people_i_know/hello_flask.png)
+![](/smart_door/people_i_know/hello_flask.png)
 ```
 - Take pic by entering hello + name: localhost:5000/hello/"yourname" in browser
 ```
